@@ -15,7 +15,7 @@ public class Main {
         double d1 = 1.7d;
         System.out.println("Значение переменной d c типом double равно " + d1);
 
-        System.out.println("!!!Exercise 2!!!");
+        System.out.println("Exercise 2");
         byte b21 = 67;
         System.out.println("Значению " + b21 + " может соответствовать тип byte");
         short s2 = -159;
